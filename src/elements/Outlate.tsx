@@ -40,9 +40,13 @@ export const Layout3 = () => {
 export const Layout4 = () => {
   return (
     <>
+      <h1>MainBanner4</h1>
       <MainBanner4 />
+      <h1>Header4</h1>
       <Header4 />
+      <h1>Outlet</h1>
       <Outlet />
+      <h1>Footer2</h1>
       <Footer2 />
     </>
   );
